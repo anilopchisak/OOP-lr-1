@@ -1,0 +1,10 @@
+C:\Users\Пользователь\source\repos\ооп лаба 1\bin\Debug\ооп лаба 1.exe.config
+C:\Users\Пользователь\source\repos\ооп лаба 1\bin\Debug\ооп лаба 1.exe
+C:\Users\Пользователь\source\repos\ооп лаба 1\bin\Debug\ооп лаба 1.pdb
+C:\Users\Пользователь\source\repos\ооп лаба 1\obj\Debug\ооп лаба 1.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\ооп лаба 1\obj\Debug\ооп_лаба_1.Form1.resources
+C:\Users\Пользователь\source\repos\ооп лаба 1\obj\Debug\ооп_лаба_1.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\ооп лаба 1\obj\Debug\ооп лаба 1.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\ооп лаба 1\obj\Debug\ооп лаба 1.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\ооп лаба 1\obj\Debug\ооп лаба 1.exe
+C:\Users\Пользователь\source\repos\ооп лаба 1\obj\Debug\ооп лаба 1.pdb
